@@ -21,7 +21,7 @@ I'm keen to collaborate on projects involving tech innovation, especially those 
 
 ## Connect With Me 📫
 - **Email:** <a href="aungsanlin1414@gmail.com">Send Email</a>
-- **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/aungsanlin)
+- **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/aung-san-lin-a670ba29b/)
 
 ## Personal Insights 👤
 - **Pronouns:** He/Him
