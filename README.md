@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aung San Lin 👋</h1>
+<h1 align="center"> Aung San Lin</h1>
 
 <p align="center">
   "Aspiring Full-Stack Developer | Data Enthusiast"
