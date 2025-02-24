@@ -26,7 +26,7 @@ Looking to collaborate on innovative tech projects that address significant soci
   <!-- Tailwind CSS -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <!-- SvelteKit -->
-  <img src="https://cdn.jsdelivr.net/gh/sveltejs/branding/icons/svelte-square.svg" alt="SvelteKit" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="SvelteKit" width="40" height="40"/>
   <!-- Backend Technologies -->
   <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Express" width="40" height="40"/>
