@@ -14,7 +14,6 @@ I am a final-year ICT student at Rangsit University specializing in full-stack d
 ## Collaborative Interests 🤝
 Looking to collaborate on innovative tech projects that address significant social challenges and complex business problems.
 
-
 ## Technical Proficiencies 🔧
 
 <p align="center">
@@ -24,6 +23,10 @@ Looking to collaborate on innovative tech projects that address significant soci
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" alt="Angular" width="40" height="40"/>
+  <!-- Tailwind CSS -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <!-- SvelteKit -->
+  <img src="https://cdn.jsdelivr.net/gh/sveltejs/branding/icons/svelte-square.svg" alt="SvelteKit" width="40" height="40"/>
   <!-- Backend Technologies -->
   <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Express" width="40" height="40"/>
@@ -33,11 +36,12 @@ Looking to collaborate on innovative tech projects that address significant soci
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="SQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
   <!-- Tools & Platforms -->
-  <img src="https://docker-docs-images.s3.amazonaws.com/docs/logo-and-images/docker-logo-compressed.png" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" alt="Git" width="40" height="40"/>
 </p>
+
 
 
 ## Connect With Me 📫
