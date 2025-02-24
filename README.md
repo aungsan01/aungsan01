@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @aungsan01
-- 👀 I’m interested in full-stack development, data analytics, and innovative technology solutions.
-- 🌱 I’m currently learning advanced web development technologies and improving my skills in data mining and predictive analytics.
-- 💞️ I’m looking to collaborate on projects that focus on web development, software solutions, and applications that leverage data to solve real-world problems.
-- 📫 How to reach me ...
-- 😄 Pronouns: he/Him
-- ⚡ Fun fact: ...
+<h1 align="center">Hi, I'm Aung San Lin 👋</h1>
 
-<!---
-aungsan01/aungsan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="URL_TO_YOUR_PHOTO_OR_GRAPHIC" alt="banner that says Aung San Lin - software developer, designer, data analyst">
+</p>
+
+## About Me
+I'm a final-year ICT student at Rangsit University with a focus on full-stack development. I aim to create scalable and efficient software solutions that enhance user experience.
+
+## Current Endeavors 🚀
+- **Web Development:** Enhancing my skills in React, Angular, and Node.js.
+- **Data Analytics:** Diving deeper into data mining and predictive analytics.
+
+## Collaborative Interests 🤝
+I'm keen to collaborate on projects involving tech innovation, especially those that make a positive impact on society or solve complex business challenges.
+
+## Technical Proficiencies 🔧
+`HTML5` `CSS3` `JavaScript (ES6+)` `React` `Angular`  
+`Node.js` `Express` `Laravel` `Python` `SQL`  
+`MongoDB` `Docker` `AWS` `Azure` `Git`
+
+## Connect With Me 📫
+- **Email:** <a href="mailto:your-email@example.com">Send Email</a>
+- **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/aungsanlin)
+
+## Personal Insights 👤
+- **Pronouns:** He/Him
+- **Fun Fact:** I applied my tech skills in a volunteer project at a quarantine center, enhancing data collection and analysis to support health initiatives.
+
+<p align="center">
+  <img src="URL_TO_AN_INTERESTING_GRAPHIC" alt="fun graphic related to coding or data">
+</p>
+
+---
+<p align="center">
+  <i>Let's connect and chat! Open to discussing technology, innovation, and opportunities.</i>
+</p>
