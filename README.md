@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aung San Lin 👋</h1>
 
 <p align="center">
-  <img src="YOUR_PHOTO_URL" alt="Aung San Lin - software developer">
+  "Aung San Lin - Student | software developer"
 </p>
 
 ## About Me
@@ -29,11 +29,3 @@ I'm eager to collaborate on projects that leverage technology for social impact 
 - **Fun Fact:** I applied my tech skills in a volunteer project at a quarantine center, enhancing data collection and analysis to support health initiatives.
 - **Internship:** ICT developer intern at Ethnic Health System Strengthening Group, Mae Sot, focusing on improving health data systems.
 
-<p align="center">
-  <img src="YOUR_GRAPHIC_URL" alt="fun graphic related to coding or data">
-</p>
-
----
-<p align="center">
-  <i>Let's connect and chat! Open to discussing technology, innovation, and opportunities.</i>
-</p>
