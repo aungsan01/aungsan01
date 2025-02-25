@@ -18,11 +18,12 @@ Looking to collaborate on innovative tech projects that address significant soci
 
 <p align="center">
   <!-- Frontend Technologies -->
+
   <img src="https://api.iconify.design/logos-html-5.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" alt="Angular" width="40" height="40"/>
+ 
   <!-- Tailwind CSS -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <!-- SvelteKit -->
@@ -36,7 +37,7 @@ Looking to collaborate on innovative tech projects that address significant soci
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="SQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
   <!-- Tools & Platforms -->
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
+
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" alt="Git" width="40" height="40"/>
