@@ -5,9 +5,7 @@
 </p>
 
 ## About Me
-I am a final-year ICT student at Rangsit University specializing in full-stack development. My goal is to develop software solutions that are not only scalable and efficient but also enhance user experience.
-
-## Current Endeavors 🚀
+Aung San Lin is a Full-Stack Developer with a Bachelor of Information and Communication Technology from Rangsit University. He specializes in full-stack and software development, focusing on scalable, efficient, and user-friendly solutions. Skilled in front-end, back-end, database management, and UI/UX design, he values continuous learning and problem-solving.
 - **Web Development:** Currently honing my skills in React, Laravel, Node.js, Tailwind CSS, and SvelteKit.
 - **Data Analytics:** Deepening my expertise in data mining and predictive analytics.
 
